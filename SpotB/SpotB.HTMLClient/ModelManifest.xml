@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Properties\Client.lsml" Checksum="12F44734114603AF63BFCE58B1CE471E14A3797DA32866579F489DE6926292C4" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Properties\Proxies.lsml" Checksum="2730574C715C756F357CEAA8AEC11E4A5DFCE7A2719E83597D13C7A2D1C83B3C" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\CardAssignments\AddEditCardAssignment.lsml" Checksum="2425FD47F5D4B42AB38CE04E959DE6B88DFDC967EED577EC3383F04AEA481A6E" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\CardAssignments\ViewCardAssignment.lsml" Checksum="BA4B6D0106B5E4E957DF058A9D727217E4F30B7EE59C513C3AC748A42238EB4C" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Properties\ApplicationData\CardAssignments.lsml" Checksum="D55F39140DD8C21CFF68B369EC5BFE70824231ACBB8D0E6DE54E813DACC63710" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\CardAssignments\BrowseCardAssignments.lsml" Checksum="7D5CDA56D0F32EE7A7290745D51FA0E6F7F648356716762F549B40F6721B3191" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Cards\AddEditCard.lsml" Checksum="A0EF2C2F13D4A64EABC96560C9A3786C04EDF7F79D78442B9184BE20EB3F29A9" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Cards\ViewCard.lsml" Checksum="A10B01869D86F748730503588C35C11CF09C6D0FE690813AD93AA7E3358D0A0A" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Properties\ApplicationData\Cards.lsml" Checksum="F131F3CC3A3C97D6080D89481609B0745164D8D6BF71502E57537A1325FAFC4C" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Cards\BrowseCards.lsml" Checksum="8F1A8636004979C4F41548A6CA4C82AD34B334E5E2321BCB0F9782D81FA6230F" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Clients\AddEditClient.lsml" Checksum="4DF4B0803D2D231838EB92EC196748CC879E857E9978A618511491A6C2BD3BB7" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Clients\ViewClient.lsml" Checksum="A7E388C8DF748EB690A56B254F02D576EF6F5E20EFC23A4084B8ABBEA9590676" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Properties\ApplicationData\Clients.lsml" Checksum="C021FA44C4F84FA38ED1B9A724F77FF4D62823B8E6C0E87F9BCA7A22CF4F3127" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Clients\BrowseClients.lsml" Checksum="C62532D9F8F6617D54BC025EBE78627715166E50A645B25823630CC9061037BA" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Hubs\AddEditHub.lsml" Checksum="E099369CC851FD2AC4AE0A82130522369B86318B557220594E88EE575B65E66C" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Hubs\ViewHub.lsml" Checksum="57A89E5319A8AB0410687450EE310612E54B25364EE1ED3642F2E042FBE66D60" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Properties\ApplicationData\Hubs.lsml" Checksum="CF5856E753C1D3F42BC18AB0562E781FE435523792DBD75C09215B4291A377D2" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Hubs\BrowseHubs.lsml" Checksum="B9705853E951489CD3AC95A09D0121C2A1552B786F8C3B1C2A6A76791B4CA033" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\SpotAssignments\AddEditSpotAssignment.lsml" Checksum="366EC1A9DF9F7E31474BC13845EF83E64445D9A2A261AB3EF3F13C302D7CC447" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\SpotAssignments\ViewSpotAssignment.lsml" Checksum="FC8BAEB964F862C712ADA8BC69C3A51021AC550D5054DA441999C378E74ECDB9" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Properties\ApplicationData\SpotAssignments.lsml" Checksum="9A0ABDAB50333DC887757D2589D3424066698B4BED6B1C5800A07335D7AFFB6F" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\SpotAssignments\BrowseSpotAssignments.lsml" Checksum="EA731213648A6E33839235D2B0637F6FE3AE89294CE51CFF6E93AEDCB6ABE599" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Spots\AddEditSpot.lsml" Checksum="7858C5786AFCD4FC102340DB3B9B9F3538D4EC32C49B8EA47CD725C45DF6FE29" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Spots\ViewSpot.lsml" Checksum="3976C57C68CDEFA8F993E2DC002596E3648655A53F9B6479CEA5972E1FD9C833" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Properties\ApplicationData\Spots.lsml" Checksum="67DDF5AC6CF208D6432D656E921A82F685D348ED991BD2FAA7DA556788614F33" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\Screens\Spots\BrowseSpots.lsml" Checksum="0B1F8BA2CE4F7AED558AC5787CE0B863913EEE0A76FDAF7ACD10819E94C810E6" />
+  </Documents>
+</ModelDocumentManifest>

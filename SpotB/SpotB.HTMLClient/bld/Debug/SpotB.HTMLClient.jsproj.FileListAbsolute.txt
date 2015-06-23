@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\bin\Debug\LSResourceGeneratorsTask.mcs
+c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.HTMLClient\bin\Debug\LSClientCodeGeneratorsTask.mcs

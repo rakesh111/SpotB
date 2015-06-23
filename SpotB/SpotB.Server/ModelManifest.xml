@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.Server\Properties\Service.lsml" Checksum="679C78F29C5AF23E9956A773B0E46DF90F7B86CADA0B79571E5896A1C79F5B70" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.Server\Properties\DataSources\ApplicationData.lsml" Checksum="E6FEEAC3B4A850AAC5F0029259A0B9F8C1BD45F2950D17BD8D6664B9422E6AD6" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.Server\DataSources\ApplicationData\Clients.lsml" Checksum="BA52A80B0DE83B39DC53400CD5856860A18F5E214F8E04075BB64873CFDD9451" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.Server\DataSources\ApplicationData\Hubs.lsml" Checksum="6E5E9183F6787E17AA6A6E528578BA9195895DF964EDFC9190CA12347E6B4666" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.Server\DataSources\ApplicationData\Spots.lsml" Checksum="69ABCCA648EDD7DE470F340BA32E6F6854C27FC0F7AD977484ADB3A19493503B" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.Server\DataSources\ApplicationData\Cards.lsml" Checksum="D990CE4A76BD5C8359A0CB403657C99005F191520BD83B9537E261874F47C552" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.Server\DataSources\ApplicationData\SpotAssignments.lsml" Checksum="2D89DD7209CD977EB119265311BAD8CC3203AEB7EA76FB873EB165402007D963" />
+    <Document FullPath="c:\users\user\documents\visual studio 2013\Projects\SpotB\SpotB\SpotB.Server\DataSources\ApplicationData\CardAssignments.lsml" Checksum="94F419FE6B0DFF2F36C18090E2A857B8BDCE6904F3B2A116F6C34E49A3890BAA" />
+  </Documents>
+</ModelDocumentManifest>

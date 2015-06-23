@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{581633EB-B896-402F-8E60-36F3DA191C85}") = "SpotB", "SpotB\SpotB.lsxtproj", "{4295EDB9-6752-4D20-A01C-D63952E9F884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotB.Server", "SpotB\SpotB.Server\SpotB.Server.csproj", "{FEE6C7CE-129C-4280-B786-8502010BBB86}"
+EndProject
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "SpotB.HTMLClient", "SpotB\SpotB.HTMLClient\SpotB.HTMLClient.jsproj", "{29970A74-5773-403E-BA14-3F42484B995F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4295EDB9-6752-4D20-A01C-D63952E9F884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4295EDB9-6752-4D20-A01C-D63952E9F884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4295EDB9-6752-4D20-A01C-D63952E9F884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4295EDB9-6752-4D20-A01C-D63952E9F884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE6C7CE-129C-4280-B786-8502010BBB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE6C7CE-129C-4280-B786-8502010BBB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE6C7CE-129C-4280-B786-8502010BBB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE6C7CE-129C-4280-B786-8502010BBB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29970A74-5773-403E-BA14-3F42484B995F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29970A74-5773-403E-BA14-3F42484B995F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29970A74-5773-403E-BA14-3F42484B995F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29970A74-5773-403E-BA14-3F42484B995F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
